@@ -1,0 +1,10 @@
+:root {
+  --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #747bff;
+  .VPHome {
+    padding-top: 100px;
+    .VPHero {
+      margin-bottom: 100px;
+    }
+  }
+}
